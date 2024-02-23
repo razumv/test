@@ -15,6 +15,9 @@ Fleek - это инновационная платформа, предостав
 - [Официальный сайт](https://fleek.network)
 - [GitHub](https://github.com/fleek)
 
+[![альтернативный текст](IMG_2419.WEBP)](IMG_2419.WEBP)
+
+
 <img src="https://raw.githubusercontent.com/razumv/test/main/fleek/IMG_2419.WEBP" alt="альтернативный текст" width="100" height="100">
 
 
